@@ -5,6 +5,7 @@
 			<nuxt-link to="/34c3" tag="li">34c3</nuxt-link>
 			<nuxt-link to="/mikrogravitation2018" tag="li">Mikrogravitation2018</nuxt-link>
 			<nuxt-link to="/weekendHack0x3" tag="li">weekendHack0x3</nuxt-link>
+			<nuxt-link to="/hip" tag="li">Hack Im Pott</nuxt-link>
 		</ul>
 		<p>Need another Layout? <a href="https://github.com/chaostreff-flensburg/digitalSignage#creating-a-new-layout--design" target="_blank">Create your own!</a></p>
 	</nav>
