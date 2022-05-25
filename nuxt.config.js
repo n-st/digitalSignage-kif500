@@ -12,5 +12,8 @@ module.exports = {
       '/',
       '/kif500',
     ]
+  },
+  router: {
+    base: '/signs-kif500/'
   }
 }
