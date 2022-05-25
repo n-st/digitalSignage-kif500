@@ -7,7 +7,7 @@
 </template>
 
 <style>
-@import url('http://fonts.cdnfonts.com/css/futura-md-bt');
+@import url('https://fonts.cdnfonts.com/css/futura-md-bt');
 
 [id='kif500'] {
 	width: 100vw;
