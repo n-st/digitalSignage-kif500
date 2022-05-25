@@ -27,8 +27,8 @@ export default {
 	},
 	asyncData(context) {
 		return {
-			heading: context.query.heading || `You are beautiful`,
-			subline: context.query.subline || `Let's change the world!`
+			heading: context.query.heading || `Plenum`,
+			subline: context.query.subline || `ist wichtig für die Resolution`
 		}
 	} 
 }
