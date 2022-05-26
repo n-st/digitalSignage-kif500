@@ -12,26 +12,30 @@
 [id='kif500'] {
 	width: 100vw;
 	height: 100vh;
-
 	margin: 0 !important; 
 	padding: 0 !important;
 }
 .heading {
-    /* Schrift groß 3.3cm */
-    /* top 4.5cm-8.3cm / 2.6cm-8.6cm */
-	font-family: 'Futura Md BT', sans-serif;
-	font-weight: 700;
-	font-style: normal;
+	/* Schrift groß 3.3cm */
+	/* top 4.5cm-8.3cm / 2.6cm-8.6cm */
 	font-size: 3.3cm;
 	margin-top: -5cm !important;
 }
 .subline {
-    /* Schrift klein 2.3cm */
+	/* Schrift klein 2.3cm */
+	font-size: 2.3cm;
+	margin-top: -0.5cm !important;
+}
+.heading, .subline {
 	font-family: 'Futura Md BT', sans-serif;
 	font-weight: 700;
 	font-style: normal;
-	font-size: 2.3cm;
-	margin-top: -0.5cm !important;
+}
+@media only screen {
+	.heading, .subline {
+		padding: 0 50px;
+		background: lightgrey;
+	}
 }
 
 #kiflogo {
